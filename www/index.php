@@ -9,5 +9,5 @@ function foo()
 }
 
 $a = "1234";
-
+echo 'ssssssssssss';
 foo();
